@@ -13,7 +13,9 @@
   .. image:: https://requires.io/github/Alfanous-team/alfanous/requirements.svg?branch=master
      :target: https://requires.io/github/Alfanous-team/alfanous/requirements/?branch=master
      :alt: Requirements Status
-
+  .. image:: https://www.quantifiedcode.com/api/v1/project/44c2ac165d184c75ab43b770e10932b2/badge.svg
+    :target: https://www.quantifiedcode.com/app/project/44c2ac165d184c75ab43b770e10932b2
+    :alt: Code issues
 
 * .. image:: https://img.shields.io/pypi/dm/alfanous.svg
         :target: https://pypi.python.org/pypi/alfanous
@@ -117,7 +119,7 @@ see `FAQ <https://github.com/Alfanous-team/alfanous/blob/master/FAQ.rst>`_
 -------------------
 Research Foundation
 -------------------
-* Link to `Magister Thesis <http://www.slideshare.net/AssemCHELLI/main-30182032>`_
+* Link to Magister Thesis `Research gate <https://www.researchgate.net/publication/284726630_Proposal_of_an_Advanced_Retrieval_System_for_Noble_Quran>`_ `Slideshare <http://www.slideshare.net/AssemCHELLI/main-30182032>`_
 * Link to `General Behavior Schema <http://www.slideshare.net/AssemCHELLI/visio-global-schema>`_.
 
 ----------
@@ -179,6 +181,7 @@ This is the list of search features already implemented, preview links use Alfan
 -------
 History
 -------
+- **4 Mar2015**: Launching "GUI 0.7.20 Kahraman release" of the GUI: clean, uptodate technologies, localization, translation search.
 - **25 November 2013**: Launching "`API 0.7.01 BlackStone release <https://github.com/Alfanous-team/alfanous/releases/tag/API_0.7.01>`_" of the  API: Extensible, More stable, and has Many features.
 
 - **4 August 2013**: Launching "`WEB 0.7.5 alyaqoot release <https://github.com/Alfanous-team/alfanous/releases/tag/WEB_0.7.5>`_" of the  web interface: based on `Twitter Bootstrap <http://twitter.github.io/bootstrap/>`_, Responsive , Simple, Clean , Accept skins, and has many  improvements and bug fixes. kacemb2_
